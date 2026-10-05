@@ -34,17 +34,17 @@ Over time, these datasets can accumulate:
 
 
 
-\- duplicate customer records;
+- duplicate customer records;
 
-\- inconsistent phone number formats;
+- inconsistent phone number formats;
 
-\- malformed or non-standard email addresses;
+- malformed or non-standard email addresses;
 
-\- missing contact information;
+- missing contact information;
 
-\- inconsistent city, agency, or status values;
+- inconsistent city, agency, or status values;
 
-\- formatting differences caused by manual data entry.
+- formatting differences caused by manual data entry.
 
 
 
@@ -96,19 +96,19 @@ The pipeline processed a synthetic dataset containing **5,000 customer records**
 
 
 
-\- **200 duplicate records removed**
+- **200 duplicate records removed**
 
-\- **100% of unique customer IDs preserved**
+- **100% of unique customer IDs preserved**
 
-\- **0 duplicate customer IDs remaining**
+- **0 duplicate customer IDs remaining**
 
-\- **76.24% reduction in invalid/non-standard phone formats**
+- **76.24% reduction in invalid/non-standard phone formats**
 
-\- **831 normalization operations logged**
+- **831 normalization operations logged**
 
-\- **425 records isolated for human review**
+- **425 records isolated for human review**
 
-\- **0 unexpected customer IDs introduced**
+- **0 unexpected customer IDs introduced**
 
 
 
@@ -128,43 +128,43 @@ Remaining missing or invalid values are intentionally retained when they cannot 
 
 Raw customer data
 
-&#x20;       |
+       |
 
-&#x20;       v
+       v
 
 Data quality audit
 
-&#x20;       |
+       |
 
-&#x20;       v
+       v
 
 Safe normalization
 
-&#x20;       |
+       |
 
-&#x20;       v
+       v
 
 Validation
 
-&#x20;       |
+       |
 
-&#x20;       v
+       v
 
 Deduplication
 
-&#x20;       |
+       |
 
-&#x20;       +----------------------+
+       +----------------------+
 
-&#x20;       |                      |
+       |                      |
 
-&#x20;       v                      v
+       v                      v
 
 Clean dataset          Human review queue
 
-&#x20;       |
+       |
 
-&#x20;       v
+       v
 
 Before / After reporting
 
@@ -196,7 +196,7 @@ Example:
 
 +221 77 123 45 67
 
-&#x20;       ↓
+       ↓
 
 771234567
 
@@ -216,11 +216,11 @@ Safe transformations include:
 
 
 
-\- trimming surrounding spaces;
+- trimming surrounding spaces;
 
-\- converting addresses to lowercase;
+- converting addresses to lowercase;
 
-\- validating basic email syntax.
+- validating basic email syntax.
 
 
 
@@ -302,41 +302,41 @@ data-cleaning-automation/
 
 |   `-- sample/
 
-|       `-- customers\_sample.csv
+|       `-- customers_sample.csv
 
 |
 
 |-- reports/
 
-|   |-- before\_after\_comparison.json
+|   |-- before_after_comparison.json
 
-|   |-- before\_after\_comparison.txt
+|   |-- before_after_comparison.txt
 
-|   |-- cleaning\_report.json
+|   |-- cleaning_report.json
 
-|   |-- data\_quality\_before.json
+|   |-- data_quality_before.json
 
-|   |-- data\_quality\_before.txt
+|   |-- data_quality_before.txt
 
-|   |-- pipeline\_validation.json
+|   |-- pipeline_validation.json
 
-|   `-- pipeline\_validation.txt
+|   `-- pipeline_validation.txt
 
 |
 
 |-- src/
 
-|   |-- generate\_dataset.py
+|   |-- generate_dataset.py
 
-|   |-- data\_quality\_audit.py
+|   |-- data_quality_audit.py
 
-|   |-- clean\_data.py
+|   |-- clean_data.py
 
-|   |-- compare\_before\_after.py
+|   |-- compare_before_after.py
 
-|   |-- validate\_pipeline.py
+|   |-- validate_pipeline.py
 
-|   `-- validate\_anomaly\_events.py
+|   `-- validate_anomaly_events.py
 
 |
 
@@ -360,17 +360,17 @@ data-cleaning-automation/
 
 
 
-\- Python 3
+- Python 3
 
-\- pandas
+- pandas
 
-\- NumPy
+- NumPy
 
-\- openpyxl
+- openpyxl
 
-\- Faker
+- Faker
 
-\- Git
+- Git
 
 
 
@@ -400,7 +400,7 @@ python -m venv .venv
 
 ```powershell
 
-.\\.venv\\Scripts\\Activate.ps1
+.\.venv\Scripts\Activate.ps1
 
 ```
 
@@ -432,7 +432,7 @@ Generate the synthetic dataset:
 
 ```bash
 
-python src/generate\_dataset.py
+python src/generate_dataset.py
 
 ```
 
@@ -444,7 +444,7 @@ Run the initial data-quality audit:
 
 ```bash
 
-python src/data\_quality\_audit.py
+python src/data_quality_audit.py
 
 ```
 
@@ -456,7 +456,7 @@ Run the cleaning pipeline:
 
 ```bash
 
-python src/clean\_data.py
+python src/clean_data.py
 
 ```
 
@@ -468,7 +468,7 @@ Generate the Before vs After comparison:
 
 ```bash
 
-python src/compare\_before\_after.py
+python src/compare_before_after.py
 
 ```
 
@@ -480,7 +480,7 @@ Validate customer-ID integrity:
 
 ```bash
 
-python src/validate\_pipeline.py
+python src/validate_pipeline.py
 
 ```
 
@@ -502,13 +502,13 @@ The pipeline generates:
 
 output/
 
-|-- customers\_clean.csv
+|-- customers_clean.csv
 
-|-- customers\_clean.xlsx
+|-- customers_clean.xlsx
 
-|-- records\_for\_review.csv
+|-- records_for_review.csv
 
-`-- duplicates\_removed.csv
+`-- duplicates_removed.csv
 
 ```
 
@@ -542,19 +542,19 @@ The same approach can be adapted to:
 
 
 
-\- CRM data cleanup;
+- CRM data cleanup;
 
-\- Excel/CSV database cleaning;
+- Excel/CSV database cleaning;
 
-\- customer-list deduplication;
+- customer-list deduplication;
 
-\- contact database standardization;
+- contact database standardization;
 
-\- migration preparation;
+- migration preparation;
 
-\- recurring data-quality checks;
+- recurring data-quality checks;
 
-\- automated operational reporting.
+- automated operational reporting.
 
 
 
