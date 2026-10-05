@@ -1,0 +1,20 @@
+{
+  "input_rows": 5000,
+  "rows_after_cleaning_before_dedup": 5000,
+  "final_unique_rows": 4800,
+  "duplicates_removed": 200,
+  "records_requiring_review": 425,
+  "normalization_changes": 831,
+  "phone_quality": {
+    "valid": 4425,
+    "normalized": 223,
+    "missing": 80,
+    "invalid": 72
+  },
+  "email_quality": {
+    "valid": 4515,
+    "missing": 120,
+    "invalid": 93,
+    "normalized": 72
+  }
+}

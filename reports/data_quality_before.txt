@@ -1,0 +1,38 @@
+DATA QUALITY AUDIT — BEFORE CLEANING
+=============================================
+
+Rows: 5000
+Columns: 10
+Quality score: 97.85 / 100
+
+DUPLICATES
+--------------------
+rows_with_duplicated_customer_id: 398
+duplicate_customer_id_groups: 198
+rows_in_exact_duplicate_groups: 200
+
+PHONES
+--------------------
+missing: 83
+valid_strict_format: 4614
+invalid_or_nonstandard: 303
+
+EMAILS
+--------------------
+missing: 123
+valid_syntax: 4778
+invalid_syntax: 99
+with_outer_spaces: 38
+
+MISSING VALUES
+--------------------
+customer_id: 0 (0.0%)
+first_name: 0 (0.0%)
+last_name: 0 (0.0%)
+phone: 83 (1.66%)
+email: 123 (2.46%)
+city: 71 (1.42%)
+agency: 0 (0.0%)
+status: 0 (0.0%)
+registration_date: 0 (0.0%)
+injected_duplicate_type: 0 (0.0%)

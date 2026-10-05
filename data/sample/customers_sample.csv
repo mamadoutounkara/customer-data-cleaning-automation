@@ -1,0 +1,101 @@
+﻿customer_id,first_name,last_name,phone,email,city,agency,status,registration_date,injected_duplicate_type
+CUST-04667,Marc,Jacob,772302759,marc.jacob4667@gmail.com,Kolda,Agence Saint-Louis,Prospect,2026-03-22,original
+CUST-00313,Arthur,Picard,786554807,arthur.picard313@outlook.com,Kolda,Agence Saint-Louis,Actif,2026-04-23,original
+CUST-04582,Emmanuel,Martin,753290676,emmanuel.martin4582@gmail.com,Dakar,Agence Kaolack,Inactif,2026-04-26,original
+CUST-04742,Émile,Fleury,702336993,mile.fleury4742@yahoo.fr,Thiès,Agence Thiès,Prospect,2026-08-03,original
+CUST-00391,Grégoire,Moulin,785584827,gr.goire.moulin391@example.com,Dakar,Agence Kaolack,Actif,2024-03-01,original
+CUST-03954,Adélaïde,Weber,757809220,ad.la.de.weber3954@outlook.com,Ziguinchor,Agence Kaolack,Inactif,2024-11-26,original
+CUST-03218,Martin,Mace,768097595,martin.mace3218@yahoo.fr,Matam,Agence Dakar,Actif,2024-11-24,original
+CUST-02898,Claude,Blanchet,774108285,claude.blanchet2898@gmail.com,Kaolack,Agence Thiès,Prospect,2024-01-07,original
+CUST-00915,Auguste,Mahe,779356480,auguste.mahe915@example.com,Dakar,Agence Dakar,Actif,2024-10-20,original
+CUST-02793,Claudine,Lévy,781597056,claudine.l.vy2793@outlook.com,Fatick,Agence Thiès,Inactif,2026-08-29,original
+CUST-00919,Madeleine,Julien,765701125,madeleine.julien919@example.com,Fatick,Agence Dakar,Prospect,2025-07-02,original
+CUST-02004,Jeanne,Traore,775228411,jeannetraore2004@yahoo.fr,Kolda,Agence Dakar,Prospect,2025-08-17,original
+CUST-00778,Anne,Faure,770700094,anne.faure778@gmail.com,Fatick,Agence Saint-Louis,Prospect,2024-10-26,original
+CUST-00059,Adèle,Lenoir,775615588,ad.le.lenoir59@outlook.com,Ziguinchor,Agence Dakar,Actif,2025-09-18,original
+CUST-00138,Georges,Leclerc,705234147,georges.leclerc138@gmail.com,Dakar,Agence Kaolack,Prospect,2024-10-15,original
+CUST-02372,Timothée,Caron,751476969,timoth.e.caron2372@gmail.com,Diourbel,Agence Thiès,Prospect,2025-11-07,original
+CUST-02742,Jeannine,David,784818984,jeannine.david2742@gmail.com,Saint-Louis,Agence Kaolack,Prospect,2025-05-08,original
+CUST-04383,Gilles,De Oliveira,759837891,gilles.de.oliveira4383@outlook.com,Thiès,Agence Kaolack,Actif,2024-10-26,original
+CUST-00592,NICOLE,Roche, 755247535 ,nicole.roche592@outlook.com,Kaolack,Agence Kaolack,Inactif,2024-12-18,fuzzy
+CUST-04681,Aimé,Ruiz,709238387,aim.ruiz4681@yahoo.fr,Saint-Louis,Agence Thiès,Inactif,2025-12-24,original
+CUST-03109,Colette,Lesage,,colette.lesage3109@gmail.com,Diourbel,Agence Thiès,Actif,2025-12-22,original
+CUST-04095,Henriette,Nicolas,777403144,henriette.nicolas4095@outlook.com,Louga,Agence Saint-Louis,Inactif,2024-08-12,original
+CUST-02807,Gabriel,Marion,772311788,gabriel.marion2807@example.com,Kolda,Agence Dakar,Inactif,2025-08-24,original
+CUST-00651,ANOUK,Gay, 788277448 ,anouk.gay651@example.com,Louga,Agence Saint-Louis,Inactif,2025-09-12,fuzzy
+CUST-01967,CAPUCINE,Dias, 772311850 ,capucine.dias1967@gmail.com,Fatick,Agence Thiès,Prospect,2024-05-19,fuzzy
+CUST-01621,Dominique,Maréchal,702085078,dominique.mar.chal1621@yahoo.fr,Kaolack,Agence Thiès,Inactif,2024-07-02,original
+CUST-00039,Henriette,Maillet,762912144,henriette.maillet39@example.com,Kolda,Agence Kaolack,Prospect,2026-05-20,original
+CUST-01177,Margaux,Rossi,782076272,margaux.rossi1177@example.com,Thiès,Agence Dakar,Inactif,2025-11-25,original
+CUST-04749,Jacqueline,Charpentier,777746097,jacqueline.charpentier4749@gmail.com,Matam,Agence Thiès,Inactif,2025-05-02,original
+CUST-04748,Simone,Aubry,768057784,simone.aubry4748@gmail.com,fatick,Agence Saint-Louis,Actif,2026-04-12,original
+CUST-04704,Benjamin,Salmon,750841795,benjamin.salmon4704@gmail.com,Fatick,Agence Kaolack,Inactif,2026-05-16,original
+CUST-04671,Alexandrie,Moreno,700728069,alexandrie.moreno4671@gmail.com,Thiès,Agence Thiès,Inactif,2024-04-28,original
+CUST-01102,Noémi,Mendès,756962949,no.mi.mend.s1102@outlook.com,Diourbel,Agence Dakar,Prospect,2025-03-15,original
+CUST-00905,Thomas,Laporte,703255768,thomas.laporte905@outlook.com,Fatick,Agence Saint-Louis,Actif,2025-01-15,original
+CUST-03422,Anaïs,Legrand,702038158,ana.s.legrand3422@yahoo.fr,Fatick,Agence Thiès,Prospect,2024-12-23,original
+CUST-00883,Honoré,Leconte,783662469,honor.leconte883@gmail.com,Diourbel,Agence Saint-Louis,Inactif,2025-12-29,original
+CUST-00672,Daniel,Humbert,776329103,daniel.humbert672@gmail.com,Dakar,Agence Dakar,Actif,2025-09-07,original
+CUST-02776,Susan,Raynaud,766040203,susan.raynaud2776@outlook.com,Louga,Agence Dakar,Actif,2025-02-08,original
+CUST-02108,CHRISTOPHE,Martel, 705451738 ,christophe.martel2108@yahoo.fr,Kaolack,Agence Dakar,Inactif,2026-02-22,fuzzy
+CUST-01692,Laurence,Guichard,785018649,laurence.guichard1692@yahoo.fr,Kolda,Agence Kaolack,Prospect,2025-01-20,original
+CUST-01513,Susan,Samson,775851896,susan.samson1513@outlook.com,Thiès,Agence Dakar,Inactif,2025-10-20,original
+CUST-01666,Stéphane,Lopez,768836404,st.phane.lopez1666@gmail.com,Louga,Agence Kaolack,Actif,2025-09-02,original
+CUST-00487,Robert,Boutin,756448784,robert.boutin487@gmail.com,Louga,Agence Kaolack,Inactif,2025-05-21,original
+CUST-03352,Timothée,Lefebvre,776921551,timoth.e.lefebvre3352@yahoo.fr,Saint-Louis,Agence Dakar,Actif,2025-04-08,original
+CUST-00290,Yves,Chevallier,759653385,yves.chevallier290@gmail.com,Thiès,Agence Kaolack,Inactif,2023-12-11,original
+CUST-01413,Benoît,Texier,+221701094623,beno.t.texier1413@gmail.com,Louga,Agence Kaolack,Inactif,2024-05-21,original
+CUST-01515,Gabrielle,Poulain,765862156,gabrielle.poulain1515@yahoo.fr,Louga,Agence Kaolack,Actif,2025-04-24,original
+CUST-03952,Antoinette,Dubois,765585561,,,Agence Kaolack,Prospect,2024-02-03,original
+CUST-01719,Émile,Lombard,784585610,mile.lombard1719@outlook.com,Louga,Agence Thiès,Inactif,2023-12-05,original
+CUST-02082,Nathalie,Pierre,774698611,nathalie.pierre2082@outlook.com,Fatick,Agence Kaolack,Inactif,2025-05-25,original
+CUST-01659,Noël,Hervé,781520629,no.l.herv1659@example.com,Thiès,Agence Thiès,Inactif,2026-07-16,original
+CUST-01392,Constance,Dumas,768623685,constance.dumas1392@example.com,Ziguinchor,Agence Thiès,Actif,2025-09-26,original
+CUST-02443,Raymond,Lebrun,704183400,raymond.lebrun2443@outlook.com,Thiès,Agence Thiès,Prospect,2024-02-20,original
+CUST-04767,Adèle,Auger,754904535,ad.le.auger4767@gmail.com,Saint-Louis,Agence Saint-Louis,Prospect,2026-06-23,original
+CUST-00789,Hélène,Charles,707905415,h.l.ne.charles789@gmail.com,Ziguinchor,Agence Dakar,Inactif,2025-04-19,original
+CUST-01801,Luce,Pereira,787331575,luce.pereira1801@gmail.com,Fatick,Agence Saint-Louis,Actif,2024-04-10,original
+CUST-01143,Alix,Regnier,708729922,alix.regnier1143@outlook.com,Fatick,Agence Saint-Louis,Prospect,2024-03-30,original
+CUST-00641,Marc,Robert,756577496,marc.robert641@yahoo.fr,Kolda,Agence Kaolack,Actif,2024-05-29,original
+CUST-03867,Henri,Jacquot,766847820,henri.jacquot3867@example.com,Fatick,Agence Saint-Louis,Actif,2025-01-22,original
+CUST-02825,Madeleine,Guillou,755880793,madeleine.guillou2825@outlook.com,Ziguinchor,Agence Kaolack,Prospect,2026-07-05,original
+CUST-02075,Marianne,Le Goff,767176152,marianne.le.goff2075@example.com,Ziguinchor,Agence Thiès,Prospect,2025-10-08,original
+CUST-01600,Catherine,Allain,761915951,catherine.allain1600@gmail.com,Louga,Agence Dakar,Actif,2024-06-17,original
+CUST-01554,Margaret,Menard,708324098,margaret.menard1554@gmail.com,Matam,Agence Dakar,Actif,2025-04-23,original
+CUST-02223,Valentine,Cohen,,valentine.cohen2223@yahoo.fr,Kaolack,Agence Thiès,Inactif,2026-03-08,original
+CUST-04787,Yves,Aubry,774542354,yves.aubry4787@yahoo.fr,Fatick,Agence Kaolack,Actif,2024-03-02,original
+CUST-01211,Laure,Aubert,778777063,laure.aubert1211@gmail.com,Fatick,Agence Thiès,Prospect,2025-02-05,original
+CUST-01792,Gilles,Gauthier,751521919,gilles.gauthier1792@yahoo.fr,Dakar,Agence Thiès,Actif,2024-10-07,original
+CUST-01650,Dominique,Delaunay,767624025,dominique.delaunay1650@yahoo.fr,Matam,Agence Thiès,Actif,2023-10-21,original
+CUST-01985,ANDRÉ,Klein, 786499742 ,andr.klein1985@gmail.com,Kaolack,Agence Thiès,Actif,2025-10-22,fuzzy
+CUST-01966,Patricia,Tessier,,patricia.tessier1966@gmail.com,Thiès,Agence Dakar,Inactif,2026-08-05,original
+CUST-04461,Jeannine,Hubert,780253833,jeannine.hubert4461@example.com,Dakar,Agence Thiès,Actif,2025-09-06,original
+CUST-03244,Corinne,Collin,787224822,corinne.collin3244@example.com,Saint-Louis,Agence Dakar,Inactif,2025-02-22,original
+CUST-00629,Lucas,Techer,758142710,lucas.techer629@yahoo.fr,Matam,Agence Thiès,Inactif,2025-08-16,original
+CUST-00438,Thibault,Martin,707542242,thibault.martin438@example.com,Thiès,Agence Thiès,Actif,2024-02-11,original
+CUST-02716,Catherine,Delahaye,777753366,catherine.delahaye2716@yahoo.fr,Ziguinchor,Agence Dakar,Prospect,2026-02-16,original
+CUST-04333,Danielle,Camus,785060896,danielle.camus4333@example.com,,Agence Dakar,Actif,2025-05-19,original
+CUST-02415,Laetitia,Guilbert,756527696,laetitia.guilbert2415@yahoo.fr,,Agence Kaolack,Prospect,2025-12-11,original
+CUST-01878,Valérie,Traore,764156105,val.rie.traore1878@example.com,Kaolack,Agence Saint-Louis,Actif,2025-12-20,original
+CUST-03267,Marie,Pasquier,704431730,marie.pasquier3267@example.com,Diourbel,Agence Saint-Louis,Actif,2023-12-24,original
+CUST-03061,  Agnès  ,Henry,,agn.s.henry3061@example.com,Dakar,Agence Kaolack,Inactif,2024-10-09,original
+CUST-04498,Sabine,Dubois,783579293,sabine.dubois4498@outlook.com,Saint-Louis,Agence Saint-Louis,Actif,2024-10-13,original
+CUST-00110,Sébastien,Tessier,753074321,s.bastien.tessier110@example.com,Saint-Louis,Agence Dakar,Prospect,2024-11-14,original
+CUST-01969,Antoinette,Léger,+221766379255,antoinette.l.ger1969@gmail.com,Dakar,Agence Kaolack,Prospect,2025-08-18,original
+CUST-04173,Bernard,Philippe,789496305,bernard.philippe4173@outlook.com,Louga,Agence Dakar,Prospect,2025-09-07,original
+CUST-00523,Martin,Millet,768101485,martin.millet523@yahoo.fr,Thiès,Agence Thiès,Actif,2024-05-03,original
+CUST-04550,Stéphane,Roussel,755620648,st.phane.roussel4550@gmail.com,Fatick,Agence Dakar,Actif,2024-10-11,original
+CUST-02171,Pénélope,Lefort,78-892-29-04,p.n.lope.lefort2171@gmail.com,Kolda,Agence Saint-Louis,Prospect,2026-09-04,original
+CUST-04661,Julien,Pottier,769497802,julien.pottier4661@gmail.com,Diourbel,Agence Saint-Louis,Prospect,2024-03-03,original
+CUST-02649,Étienne,Clément,753628581,tienne.cl.ment2649@example.com,Matam,Agence Saint-Louis,Prospect,2026-01-17,original
+CUST-00295,Adélaïde,Guillet,750927095,ad.la.de.guillet295@example.com,Ziguinchor,Agence Kaolack,Prospect,2026-02-10,original
+CUST-01156,Nathalie,Charrier,756853421,nathalie.charrier1156@yahoo.fr,Saint-Louis,Agence Saint-Louis,Inactif,2026-05-26,original
+CUST-04775,Édith,Lenoir,759845797,dith.lenoir4775@outlook.com,Ziguinchor,Agence Saint-Louis,Inactif,2026-05-14,original
+CUST-00297,Agnès,Lefort,786132446,agn.s.lefort297@example.com,Dakar,Agence Thiès,Actif,2026-02-20,original
+CUST-02674,Margaret,Roger,701920710,margaret.roger2674@outlook.com,Kaolack,Agence Kaolack,Inactif,2024-09-19,original
+CUST-00425,Philippe,Martineau,754146276,philippe.martineau425@@gmail.com,Kolda,Agence Saint-Louis,Prospect,2026-05-27,original
+CUST-00689,Adèle,Perret,767350578,ad.le.perret689@gmail.com,Kaolack,Agence Saint-Louis,Actif,2025-03-30,original
+CUST-04246,Alphonse,Philippe,704965763,alphonse.philippe4246@example.com,Kolda,Agence Dakar,Actif,2024-01-31,original
+CUST-04655,Hugues,Garcia,767621640,hugues.garcia4655@gmail.com,Kaolack,Agence Kaolack,Prospect,2025-03-18,original
+CUST-00940,Éléonore,Riou,756778722,l.onore.riou940@yahoo.fr,Matam,Agence Dakar,Actif,2024-12-20,original
+CUST-00616,Charlotte,Perrot,706038705,,Kolda,Agence Dakar,Prospect,2023-12-05,original

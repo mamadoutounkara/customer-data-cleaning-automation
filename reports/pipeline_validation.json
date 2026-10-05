@@ -1,0 +1,33 @@
+{
+  "integrity": {
+    "raw_unique_customer_ids": 4800,
+    "clean_unique_customer_ids": 4800,
+    "lost_customer_ids": 0,
+    "unexpected_customer_ids": 0,
+    "remaining_duplicate_rows": 0
+  },
+  "pipeline_activity": {
+    "normalization_operations": 831,
+    "duplicates_removed": 200,
+    "records_for_review": 425
+  },
+  "ground_truth": {
+    "injected_anomaly_events": 1330,
+    "customers_with_injected_anomalies": 1186,
+    "injected_customer_ids_touched": 1044,
+    "injected_customer_ids_untouched": 142,
+    "non_injected_customer_ids_changed": 75
+  },
+  "review_reasons": {
+    "email:missing": 120,
+    "email:invalid": 93,
+    "phone:missing": 80,
+    "phone:invalid": 72,
+    "city:missing": 70
+  },
+  "validation_flags": {
+    "all_customer_ids_preserved": true,
+    "no_unexpected_customer_ids": true,
+    "no_duplicate_customer_ids_after_cleaning": true
+  }
+}

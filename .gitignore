@@ -1,0 +1,33 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated private/local outputs
+output/
+
+# Full synthetic raw datasets
+data/raw/
+
+# Internal validation artifacts
+reports/injected_anomalies.csv
+reports/unexpected_changes.csv
+reports/anomaly_event_results.csv
+
+# Regenerable detailed reports
+reports/cleaning_change_log.csv
+reports/duplicate_candidates.csv

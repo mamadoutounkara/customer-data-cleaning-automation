@@ -1,0 +1,30 @@
+{
+  "before": {
+    "rows": 5000,
+    "unique_customer_ids": 4800,
+    "duplicate_rows": 398,
+    "duplicate_groups": 198,
+    "phone_missing": 83,
+    "phone_invalid_or_nonstandard": 303,
+    "email_missing": 123,
+    "email_invalid": 99,
+    "city_missing": 71
+  },
+  "after": {
+    "rows": 4800,
+    "unique_customer_ids": 4800,
+    "duplicate_rows": 0,
+    "duplicate_groups": 0,
+    "phone_missing": 80,
+    "phone_invalid_or_nonstandard": 72,
+    "email_missing": 120,
+    "email_invalid": 93,
+    "city_missing": 70
+  },
+  "improvements": {
+    "rows_removed_as_duplicates": 200,
+    "duplicate_rows_reduction_percent": 100.0,
+    "phone_format_issues_reduction_percent": 76.24,
+    "email_invalid_reduction_percent": 6.06
+  }
+}

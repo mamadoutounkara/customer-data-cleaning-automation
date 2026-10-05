@@ -1,0 +1,12 @@
+ANOMALY EVENT VALIDATION
+==================================================
+
+total_injected_events: 1330
+automatically_corrected: 710
+flagged_for_review: 450
+not_actioned: 170
+addressed_events: 1160
+addressed_rate_percent: 87.22
+automatic_correction_rate_percent: 53.38
+review_rate_percent: 33.83
+unexpected_normalization_operations: 94

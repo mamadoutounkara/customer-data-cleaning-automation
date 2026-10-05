@@ -1,0 +1,21 @@
+DATA CLEANING — BEFORE VS AFTER
+=============================================
+
+METRIC                                 BEFORE     AFTER
+-------------------------------------------------------
+Rows                                     5000      4800
+Unique customer IDs                      4800      4800
+Rows in duplicate groups                  398         0
+Duplicate ID groups                       198         0
+Missing phones                             83        80
+Invalid/nonstandard phones                303        72
+Missing emails                            123       120
+Invalid emails                             99        93
+Missing cities                             71        70
+
+IMPROVEMENTS
+-------------------------------------------------------
+rows_removed_as_duplicates: 200
+duplicate_rows_reduction_percent: 100.0
+phone_format_issues_reduction_percent: 76.24
+email_invalid_reduction_percent: 6.06
