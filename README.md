@@ -293,61 +293,29 @@ This separation between **automatic correction** and **human review** is intenti
 
 
 ```text
-
 data-cleaning-automation/
-
-|
-
-|-- data/
-
-|   `-- sample/
-
-|       `-- customers_sample.csv
-
-|
-
-|-- reports/
-
-|   |-- before_after_comparison.json
-
-|   |-- before_after_comparison.txt
-
-|   |-- cleaning_report.json
-
-|   |-- data_quality_before.json
-
-|   |-- data_quality_before.txt
-
-|   |-- pipeline_validation.json
-
-|   `-- pipeline_validation.txt
-
-|
-
-|-- src/
-
-|   |-- generate_dataset.py
-
-|   |-- data_quality_audit.py
-
-|   |-- clean_data.py
-
-|   |-- compare_before_after.py
-
-|   |-- validate_pipeline.py
-
-|   `-- validate_anomaly_events.py
-
-|
-
-|-- .gitignore
-
-|-- LICENSE
-
-|-- README.md
-
-`-- requirements.txt
-
+├── data/
+│   └── sample/
+│       └── customers_sample.csv
+├── reports/
+│   ├── before_after_comparison.json
+│   ├── before_after_comparison.txt
+│   ├── cleaning_report.json
+│   ├── data_quality_before.json
+│   ├── data_quality_before.txt
+│   ├── pipeline_validation.json
+│   └── pipeline_validation.txt
+├── src/
+│   ├── generate_dataset.py
+│   ├── data_quality_audit.py
+│   ├── clean_data.py
+│   ├── compare_before_after.py
+│   ├── validate_pipeline.py
+│   └── validate_anomaly_events.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 
